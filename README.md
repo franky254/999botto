@@ -38,7 +38,7 @@ Button : deploy ur own bot
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[Kaoi_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
+    here➡️[999botto_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
 
 ## 💪 Contribution
 
