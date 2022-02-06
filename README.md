@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/KrDHYxb"><img src="https://i.ibb.co/KrDHYxb/IMG-20220205-WA0052.jpg" alt="IMG-20220205-WA0052" border="0"></a>
+<a href="https://ibb.co/9sxFCSq"><img src="https://i.ibb.co/723w6LG/IMG-20220205-WA0049.jpg" alt="IMG-20220205-WA0049" border="0"></a>
 
 # **999botto : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
