@@ -48,7 +48,7 @@ Button : deploy ur own bot
     `yarn run prettier-format` before opening PRs
 ## Give a ⭐ if this project helped you
 
-## 🚀Some WhatsApp bots are recommended🚀
+## 🚀𝕒𝕞 𝕛𝕦𝕤𝕥 𝕒 𝕝𝕖𝕒𝕣𝕟𝕖𝕣🚀
 <details>
 <summary>Click Here</summary>
 
